@@ -31,7 +31,8 @@ get_all_episodes = function(series_imdb_id){
         html_node("table") %>% 
         html_table(fill=TRUE) %>% 
         select(-5) %>% 
-        as.tibble()
+        as.tibble() %>% 
+        mutate(UserVotes = as.character(UserVotes))
     
     links = base_page %>% 
         html_node("#tn15content") %>% 
