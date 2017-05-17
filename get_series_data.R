@@ -22,8 +22,13 @@ if(length(files) != there_should_be){
 } else {
     all_data = tibble(file = files) %>% 
         group_by(file) %>% 
-        do(read_csv(.$file))
+        do(read_csv(.$file)) %>% 
+        ungroup()
     all_data %>% 
+        select(-1, -20) %>%
+        filter(complete.cases(.)) %>% 
+        mutate(link = paste0("http://www.imdb.com", link)) %>% 
+        select(series_name, series_ep, season, season_ep, url = link, everything()) %>% 
         write_csv("data/series_from_imdb.csv")
 }
     
