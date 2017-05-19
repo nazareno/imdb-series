@@ -29,6 +29,7 @@ if(length(files) != there_should_be){
         filter(complete.cases(.)) %>% 
         mutate(link = paste0("http://www.imdb.com", link)) %>% 
         select(series_name, series_ep, season, season_ep, url = link, everything()) %>% 
+        unique() %>% 
         write_csv("data/series_from_imdb.csv")
 }
     
