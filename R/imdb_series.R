@@ -51,7 +51,7 @@ get_all_episodes = function(series_imdb_id){
     episodes_full = left_join(episodes %>% mutate(series_ep = 1:NROW(episodes)), 
                               episode_ratings %>% ungroup() %>% mutate(series_ep = 1:NROW(episode_ratings))) %>% 
         mutate(imdb_id = sprintf("%.2f", `#`)) %>% 
-        separate(imdb_id, into = c("season", "imdb_ep"), sep = 1) %>% 
+        separate(imdb_id, into = c("season", "imdb_ep")) %>% 
         select(-imdb_ep) %>% 
         group_by(season) %>% 
         mutate(season_ep = 1:n())
