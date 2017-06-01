@@ -23,7 +23,6 @@ get_all_episodes = function(series_imdb_id){
     require("rvest")
     
     title_url = paste0("http://www.imdb.com/title/", series_imdb_id, "/epdate?ref_=ttep_ql_4")
-    message(paste("Getting", title_url))
     base_page = read_html(title_url) 
     
     episodes = base_page %>% 

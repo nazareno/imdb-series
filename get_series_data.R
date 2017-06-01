@@ -1,18 +1,23 @@
 library(tidyverse)
+library(futile.logger)
 
 source("R/imdb_series.R")
 
 series_to_fetch = read_csv("series_urls.csv")
 
 for(i in seq(1, NROW(series_to_fetch), by = 4)){
-    series_data = series_to_fetch %>% 
-        slice(i:min(i + 4, NROW(series_to_fetch))) %>% 
-        group_by(series_name) %>% 
-        do(tryCatch(get_all_episodes(.$imdb_id), 
-                    error = function(e) data.frame(NA)))
-    series_data %>% 
-        select(-2) %>% 
-        write_csv(paste0("data/series_from_imdb-", i, ".csv"))
+    output_file = paste0("data/series_from_imdb-", i, ".csv")
+    if(!file.exists(output_file)){
+        series_data = series_to_fetch %>% 
+            slice(i:min(i + 4, NROW(series_to_fetch))) %>% 
+            group_by(series_name) %>% 
+            do(tryCatch({flog.info(paste("Getting", .$series_name, .$imdb_id));
+                get_all_episodes(.$imdb_id)}, 
+                error = function(e) data.frame(NA)))
+        series_data %>% 
+            select(-2) %>% 
+            write_csv(output_file)
+    }
 }
 
 files = list.files("./data/", "^series_from_imdb-", full.names = TRUE)
