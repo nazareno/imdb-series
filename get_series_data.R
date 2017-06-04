@@ -28,7 +28,7 @@ if(length(files) != there_should_be){
     all_data = tibble(file = files) %>% 
         group_by(file) %>% 
         do(read_csv(.$file, 
-                    col_types = cols(
+                    col_types = cols(    
                         series_name = col_character(),
                         Episode = col_character(),
                         UserRating = col_double(),
@@ -51,10 +51,27 @@ if(length(files) != there_should_be){
         ungroup()
     all_data %>% 
         select(-1, -20) %>%
-        filter(complete.cases(.)) %>% 
         mutate(link = paste0("http://www.imdb.com", link)) %>% 
-        select(series_name, series_ep, season, url = link, everything()) %>% 
-        unique() %>% 
+        select(series_name, 
+               Episode,
+               series_ep, 
+               season, 
+               season_ep,
+               url = link,
+               UserRating, 
+               UserVotes,
+               r1, 
+               r2, 
+               r3, 
+               r4, 
+               r5, 
+               r6, 
+               r7, 
+               r8, 
+               r9, 
+               r10) %>% 
+        filter(complete.cases(.)) %>% 
+        distinct() %>% 
         write_csv("data/series_from_imdb.csv")
 }
     
