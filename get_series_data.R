@@ -71,7 +71,11 @@ if(length(files) != there_should_be){
                r9, 
                r10) %>% 
         filter(complete.cases(.)) %>% 
-        distinct() %>% 
+        distinct(series_name, 
+                 Episode,
+                 season, 
+                 season_ep,
+                 url) %>% 
         write_csv("data/series_from_imdb.csv")
 }
     
