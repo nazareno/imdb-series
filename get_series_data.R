@@ -75,7 +75,8 @@ if(length(files) != there_should_be){
                  Episode,
                  season, 
                  season_ep,
-                 url) %>% 
+                 url, 
+                 .keep_all = TRUE) %>% 
         write_csv("data/series_from_imdb.csv")
 }
     
