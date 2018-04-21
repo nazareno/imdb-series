@@ -23,6 +23,8 @@ Go for `data/series_from_imdb.csv` and start analysing series/episode data.
 
 ## Fetching the data / more data yourself
 
+*UPDATE 2018-04-21*: seemingly, a change in the imdb html layout has broken our scraping code. As of today, we could not find the page which had all the data we previously fetched -- only less detailed data. Until we fix that, we have data scraped in July 2017. 
+
 ### Dependencies
 
 You'll need `tidyverse` and `rvest`.
