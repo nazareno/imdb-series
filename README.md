@@ -1,4 +1,4 @@
-# imdb-series
+# IMDB Ratings for TV/Streaming Series
 
 A dataset to analyse user ratings given in IMDB to episodes of some popular series. Code is in R. And the code to generate your version of it.
 
