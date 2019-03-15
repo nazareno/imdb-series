@@ -1,629 +1,1001 @@
-series_name, imdb_id
-Sense8,tt2431438
-Mr Robot,tt4158110
-13 Reasons Why,tt1837492
-Sherlock,tt1475582 
-How to Get Away with Murder,tt3205802
-Orphan Black,tt2234222
+series_name,imdb_id
 Game of Thrones,tt0944947
 The Walking Dead,tt1520211
-Scandal,tt1837576
-Modern Family,tt1442437
-Vikings,tt2306299
-Narcos,tt2707408
-Stranger Things,tt4574334
-Black Mirror,tt2085059
-Breaking Bad,tt0903747
-Dexter,tt0773262
-House of Cards,tt1856010
-Grey’s Anatomy,tt0413573
-The 100,tt2661044
-Arrow,tt2193021
-Gotham,tt3749900
-Daredevil,tt3322312
-Agents of S.H.I.E.L.D.,tt2364582
-The Flash,tt3107288
-Once Upon a Time,tt1843230
-Supernatural,tt0460681
-Prison Break,tt0455275
-The Blacklist,tt2741602
+Sherlock,tt1475582
 Friends,tt0108778
-Homeland,tt1796960
-The Simpsons,tt0096697
+Stranger Things,tt4574334
 How I Met Your Mother,tt0460649
-Leverage,tt1103987
-Bored To Death,tt1255913
-The Chicago Code,tt1620950
-Beauty and the Beast,tt2771200
-Him e Her,tt5179408
-Impastor,tt4543708
-The Royals,tt3597912
-Sanctuary,tt0965394
-The Lost World,tt0119567
-King e Maxwell,tt2402129
-Crazy Ex-Girlfriend,tt4094300
-The Musketeer,tt0246544
-Work It,tt1826951
-Halt & Catch Fire,tt1397046
-Slasher,tt4667888
-Suits,tt1632701
-Boardwalk Empire,tt0979432
-Fear,tt0116287
-Transporter,tt0293662
-The Player,tt0105151
-Outsiders,tt4816626
-The Lying Game,tt1798274
-The Man in the High Castle,tt1740299
-Dickensian,tt4531728
-Weeds,tt0439100
-Kingdom,tt3673794
-Forever,tt3487382
-Scream,tt3921180
-100 Questions,tt1441093
-Rookie Blue,tt1442065
-Sequestered,tt3739118
-Being Human US,tt1595680
-Secret Diary of a Call Girl,tt1000734
-Accidentally on Purpose,tt1441096
-Hell on Wheels,tt1699748
-Agent X,tt3499120
-Til Death,tt0783598
-Angel,tt0162065
-Mortal Kombat Legacy,tt2106554
-Covert Affairs,tt1495708
-Boss,tt1355631
-Bad Judge,tt2769470
-Magic City,tt1832045
-Suburgatory,tt1741256
-Third Watch,tt0197182
-10 Things I Hate About You,tt0147800
-Second Chance,tt4378456
-Damien,tt4337944
-Mandrake,tt1523367
-The Client List,tt2022170
-Crossing Jordan,tt0284718
-Girls,tt1723816
-Salem,tt2963254
-Stargate SG-1,tt0118480
-Rizzoli And Isles,tt1551632
-The Americans,tt2149175
-Transformers Prime,tt1659175
-Awkward,tt1663676
-Sherlock Holmes,tt0988045
-Novos EpisÃ³dios,tt0076759
-Dates,tt2964118
-Anger Management,tt1986770
-Jonas L.A.,tt1044418
-Merlin,tt1199099
-The Last Enemy,tt0966151
-The Mentalist,tt1196946
-Taken,tt5052460
-The Big Bang Theory,tt0898266
-Are You There,tt1826989
-Monk,tt0312172
-Siberia,tt6494418
-Franklin And Bash,tt1600199
-Ashes to Ashes,tt1008108
-Roma,tt0384766
-Tru Calling,tt0364817
-Nikita,tt1592154
-Mistresses,tt2295809
-Happy Town,tt1379722
-Ironside,tt0061266
-Invasion,tt0120201
-Secrets & Lies,tt0120323
-The Knick,tt2937900
-Ice Age Giants,tt2934994
-American Dad,tt0397306
-Back In The Game,tt2083383
-The Hour,tt1778108
-American Idol,tt0319931
-Secret Girlfriend,tt1435958
-Turn,tt2543328
-Dollhouse,tt1135300
-Stalker,tt0079944
-Cupid,tt1143289
-Jack e Jill,tt0810913
-Alphas,tt1183865
-Events,tt0210031
-Against The Wall,tt0347048
-O NegÃ³cio,tt2650940
-Jekyll & Hyde,tt5697510
-hackathons,tt3025186
-Thirteen,tt0328538
-Black-ish,tt3487356
-Ugly Americans,tt0370194
-Death,tt1822203
-CSI Miami,tt0313043
-Medium,tt0412175
-Greek,tt0976014
-2 Broke Girls,tt1845307
-Bedlam,tt1822448
-Everybody Loves Raymond,tt0115167
-Into The Badlands,tt3865236
-IZombie,tt3501584
-Royal Pains,tt1319735
-Chase,tt1582458
-The Borgias,tt1582457
-The Event,tt1582459
-Dark Blue,tt0279331
-The Real L Word,tt1561756
-Being Erica,tt1149608
-Silk,tt1717455
-Blue Mountain State,tt1344204
-Dads,tt2647548
-Love Bites,tt1582454
-Cult,tt2193053
-Reign,tt2710394
-Sleepy Hollow,tt2647544
-Camelot,tt1672189
-Blue Bloods,tt1595859
-Marvel: Agents Of S.H.I.E.L.D,tt4501242
-No Ordinary Family,tt1591493
-Nip/Tuck,tt0361217
-Ncis,tt0364845
-Ash vs. Evil Dead,tt5166592
-The Magicians,tt4254242
-Thundercats,tt0088631
-Constantine,tt0360486
-Security,tt3501112
-The Listener,tt1181541
-Two And a Half Men,tt0369179
-Terra Nova,tt1641349
-Hung,tt1229413
-A To Z,tt3216682
-The Cleveland Show,tt1195935
-Legends,tt2402137
-Shattered,tt0489664
-Gravity,tt1454468
-New Girl,tt1826940
-Warehouse 13,tt1132290
-The Bastard Executioner,tt4218618
-Breaking In,tt1630574
-The Family,tt2404311
-Saving Hope,tt1954804
-Accused,tt1800338
-Lie to me,tt1235099
-Fairly Legal,tt1586676
-Dark Angel,tt0204993
-The Catch,tt4396862
-The Pacific,tt0374463
-Revolution,tt2070791
-The Confession,tt2317171
-House,tt0412142
-Justified,tt1489428
-Resurrection,tt3231054
-Thorne: Sleepyhead,tt1610518
-True Blood,tt0844441
-Mercy,tt5710042
-The Following,tt2071645
-Power,tt3281796
-Crowded,tt4478002
-Dragon Ball Super,tt4644488
-Hamarinn (The Cliff),tt1513056
-Bitten,tt2365946
-Major Crimes,tt1936532
-Private Practice,tt0972412
-Icarly,tt0972534
-Up All Night,tt1843323
-Veronica Mars,tt0412253
-Skins US,tt0840196
-Chicago Med,tt4655480
-The White Queen,tt2372220
-Scorpion,tt3514324
-One Piece,tt0388629
-Baby Daddy,tt2177489
-Significant Mother,tt3924978
-Young & Hungry,tt5280626
-Workaholics,tt1610527
-Cuckoo,tt2222352
-Defiance,tt2189221
-Heroes,tt0813715
-The Closer,tt0458253
-Steven Seagal: Lawman,tt1329291
-American Crime,tt3488298
-The Mindy Project,tt2211129
-Bosch,tt3502248
-Gossip Girl,tt0397442
-Touch,tt1821681
-Body Of Proof,tt1587669
-Haven,tt1519931
-Yu Yu Hakusho,tt0185133
-Nurse Jackie,tt1190689
-Store,tt0903649
-The Crimson Petal And The White,tt0384013
-Angel From Hell,tt4424726
-Under The Dome,tt1553656
-The Office,tt0386676
-Trinity,tt1283456
-Eye Candy,tt3186162
-The Forgotten,tt4192812
-Paranormal Witness,tt1874066
-Stargate Stlantis,tt0374455
-Empire,tt3228904
-Human Planet,tt1806234
-wp10,tt0350384
-Criminal Minds Beyond Borders,tt4364202
-The Librarians,tt3663490
-Drake e Josh,tt0363328
-The O.C.,tt0362359
-Identity,tt0309698
-Shameless UK,tt1586680
-K Ville,tt2281375
-Hellcats,tt1596356
-Extant,tt3155320
-Through The Wormhole,tt1513168
-The Originals,tt2632424
-Stitchers,tt3868848
-Dark Matter,tt4159076
-I Hate My Teenage Daughter,tt1819545
-Femme Fatales,tt1841108
-The Odd Couple,tt3595776
-The Last Ship,tt2402207
-American Horror Story,tt1844624
-The Night Manager,tt1399664
-a Patroa e as CrianÃ§as,tt0273855
-Transparent,tt3502262
-The Astronaut Wives Club,tt3530726
-Flashpoint,tt1059475
 Lost,tt0411008
-Defying Gravity,tt1319690
-Shades of Blue,tt4118584
-Beowulf Return to the Shieldlands,tt4520906
-The Leftovers,tt2699128
-Melissa e Joey,tt1597420
-The Beautiful Life,tt1400580
-Brooklyn Nine-Nine,tt2467372
-The X-Files (Arquivo X),tt0106179
-Os Feiticeiros de Waverly Place,tt0799922
-Better With You,tt1598876
-Three Rivers,tt0108238
-Land Girls,tt1449940
-Vinyl,tt3186130
-CSI New York,tt0065832
-Sunny,tt0472954
-The Deep End,tt0437745
-EndGame,tt1217616
-Finding Carter,tt3186138
-18 To Life,tt1411254
-Scott And Bailey,tt1843678
-Unnatural History,tt1494829
-Jane By Design,tt1743904
-Call Me Fitz,tt1558182
-Hawaii Five-O,tt0062568
-Lucky Man,tt2945386
-Necessary Roughness,tt1657505
-Go On,tt2300923
-Gilmore Girls,tt0238784
-Madam Secretary,tt3501074
-The Frankenstein Chronicles,tt4206804
-Mad Love,tt0113729
-Silicon Valley,tt2575988
-The Mysteries of Laura,tt3187578
-Jericho (2016),tt5178604
-State Of Georgia,tt1786704
-Raising Hope,tt1615919
-Legend Of The Seeker,tt0844653
-Dragon Ball Z e Gt,tt0214341
-Twisted,tt2355844
-Bones,tt0460627
-Mozart in the Jungle,tt3502172
-Bates Motel,tt2188671
-Burn Notice,tt0810788
-La Femme Nikita,tt0100263
-The King Of Fighters,tt1038685
-Zack e Cody Gemeos a Bordo,tt1181917
-The 4400,tt0389564
-Luther,tt1474684
-State Of Play,tt0473705
-The L Word,tt0330251
-Perception,tt1714204
-Hustle,tt0379632
-Blood and Oil,tt4428022
-The River,tt1836195
-Doctor Who,tt0436992
-What Remains,tt2649588
-Partners,tt2994108
-Chasing Life,tt2399794
-Close To Home,tt0460631
-The Gates,tt1599357
-The Big C,tt1515193
-Todo Mundo Odeia o Chris,tt0460637
-Huge,tt1591511
-Zombieland: The Series,tt2090440
-Killjoys,tt3952222
-CSI Cyber,tt3560060
-We Are Men,tt2372182
-Testing,tt4694578
-Continuum,tt1954347
-Marry Me,tt3460454
-12 Monkeys,tt3148266
-Parks and Recreation,tt1266020
-Hit And Miss,tt5527442
-True Love,tt2065460
-Zero Hour,tt2215797
-Manhattan,tt0800369
-DCs Legends of Tomorrow,tt4532368
-Inside The Medieval Sex,tt1245423
-Jane The Virgin,tt3566726
-Rectify,tt2183404
-A Gifted Man,tt1820742
-The Cape,tt1593823
-Chaves,tt0229889
-Destaques,tt0231844
-Ripper Street,tt2183641
-Naruto Shippuden,tt0988824
-Limitless,tt4422836
-Ghost Whisperer,tt0460644
-Outlander,tt3006802
-black sails,tt2375692
-Selfie,tt3549044
-About A Boy,tt0276751
-Motive,tt2443340
-Luck,tt1578887
-Agent Carter,tt3475734
-The Fosters,tt2262532
-Primeval,tt0808096
-Devious Maids,tt2226342
-Hart Of Dixie,tt1832979
-Dead Like Me,tt0348913
-The Secret Life of the American Teenager,tt1179817
-Web Therapy,tt1930123
-Wicked City,tt4428124
-Chasing Shadows,tt3585270
-Archer,tt1486217
-The Lizzie B. Chronicles,tt4145760
-Matador US,tt0077051
-Free Agents,tt1839481
-Monday Mornings,tt2217759
-Cracked,tt2078576
-Friday Night Lights,tt0758745
-Backstrom,tt2099034
-Mike e Molly,tt1608180
-Saving Grace,tt0830900
-The Last Kingdom,tt4179452
-Missing,tt1828246
-War and Peace,tt3910804
-Sex and The City,tt0159206
-Rosewood,tt4465472
-Mad Men,tt0804503
-Vicious,tt2582590
-How To Be A Gentleman,tt1839497
-Castle,tt1219024
-Law e Order: Special Victims Unit,tt0203259
-The Killing,tt1637727
-Californication,tt0904208
-Coupling,tt0237123
-Miami Medical,tt1406662
-Ballers,tt2891574
-Betther Off Ted,tt1235547
-Broadchurch,tt2249364
-Grimm,tt1830617
-Meta,tt3247714
-Satisfaction,tt3205236
-Faking It,tt3127020
-Murder On The Home Front,tt2569792
-Colony,tt4209256
-Parenthood,tt1416765
-United States of Tara,tt1001482
-Glee,tt1327801
-Pretty Dirty Secrets,tt2511044
-The Shannara Chronicles,tt1051220
-Riese: Kingdom Falling,tt1542543
-Clipped,tt2361094
-Longmire,tt1836037
-Ray Donovan,tt2249007
-The Strain,tt2654620
-Shit My Dad Says,tt1612578
-Graceland,tt2393813
-Ringer,tt1819654
-In Plain Sight,tt0935095
-Banshee,tt2017109
-Development,tt4888440
-The L.A. Complex,tt1794147
-Happily Divorced,tt1830622
-Seinfeld,tt0098904
-Awake,tt0211933
-Will And Grace,tt0157246
-The Take,tt2368619
-Doutor House,tt2492714
-Billions,tt4270492
-Bleach,tt0434665
-Unforgettable,tt3462710
-Trust Me,tt2421416
-Happy Endings,tt1587678
-Os Pinguins de Madagascar,tt1911658
-Southland,tt1299368
-Cavemen,tt2378884
-Brilhante Victoria,tt1604099
-Whitney,tt1850458
-The X Factor,tt0423776
-How to Make It in America,tt1299365
-The Glades,tt1552112
-House of Lies,tt0758774
-Joan Of Arcadia,tt0367345
-Numbers,tt0433309
-Elementary,tt2191671
-The Amazing Race,tt0285335
-Pretty Little Liars,tt1578873
-Alias,tt0285333
-Damages,tt0914387
-Minority Report,tt0181689
-Southcliffe,tt2446726
-Looking,tt2581458
-24 Horas,tt0285331
-Kingdom Hospital,tt0324864
-Brothers e Sisters,tt4971344
-Penny Dreadful,tt2628232
+House of Cards,tt1856010
+Prison Break,tt0455275
+Arrow,tt2193021
+House,tt0412142
+Supernatural,tt0460681
+Westworld,tt0475784
+Vikings,tt2306299
+The Simpsons,tt0096697
+Daredevil,tt3322312
+Suits,tt1632701
+Modern Family,tt1442437
+South Park,tt0121955
+Black Mirror,tt2085059
+The Office,tt0386676
+Family Guy,tt0182576
+Homeland,tt1796960
+The Flash,tt3107288
 Fargo,tt2802850
 The Vampire Diaries,tt1405406
-In Treatment,tt0835434
-Red Band Society,tt3576794
-Human Target,tt1439741
-Heroes Reborn,tt3556944
-The Unit,tt0460690
-The Body Farm,tt1842973
-Raising The Bar,tt5274066
-Night Dinner,tt1844923
-Veep,tt1759761
-Community,tt1439629
-Vegas,tt0077093
-Hawthorne,tt1382367
-Please Like Me,tt2155025
-11.22.63,tt2879552
-Dracula,tt0103874
-Eastwick,tt1402376
-Breakout Kings,tt1590961
-Bedrag,tt0401997
-Camp,tt0342167
-Junto e Misturado,tt1745236
-Bouquet Of Barbed Wire,tt0073967
-The Exes,tt1830888
-Galavant,tt3305096
-Bionic Woman,tt0880557
-The Firm,tt0106918
-Fringe,tt1119644
-Spartacus Gods of The Arena,tt1758429
-Last Man Standing,tt1828327
-Xena a Princesa Guerreira,tt0112230
-Queer as Folk,tt0185102
-Charmed,tt0158552
-Dont Trust the Bitch in Apartment 23,tt1819509
-True Detective,tt2356777
-NCIS: New Orleans,tt3560084
-Downton Abbey,tt1606375
-Os Cavaleiros do ZodÃ­aco,tt0161952
-Csi Las Vegas,tt0247082
-Finder,tt5778680
-Men At Work,tt0100135
-One Tree Hill,tt0368530
-Person Of Interest,tt1839578
-Star Wars Rebels,tt2930604
-Lark Rise To Cardleford,tt1077744
-Criminal Minds Suspect,tt1703874
-Band of Brothers,tt0185906
-quantico,tt0452046
-Moonlight,tt4975722
-Hot In Cleveland,tt1583607
-Battle Creek,tt3215364
-Scream Queens,tt4145384
-Life in Pieces,tt4384086
-Chuck,tt0934814
-Men of a Certain Age,tt1242441
-Switched At Birth,tt1758772
-The Wire,tt0306414
-Fresh Meat,tt2058303
-The Carrie Diaries,tt2056366
-30 Rock,tt0496424
-Lights Out,tt4786282
-Detroit 1-8-7,tt1578258
-Super Girl,tt2176947
-Kdabra,tt1558643
-Better Call Saul,tt3032476
-Cold Case,tt0368479
-Treme,tt1279972
-How To Live With Your Parents,tt2226397
-The Good Wife,tt1442462
-Misfits,tt1548850
-The Goldbergs,tt2712740
-Enlightened,tt1509004
-Golden Boy,tt0118636
-Red Widow,tt2215399
-The Red Road,tt2505072
-Rescue Me,tt0381798
-Animes,tt0070909
-Flash Forward,tt1441135
-Without a Trace (Desaparecidos),tt0321021
-The Middle,tt1442464
-Falling Skies,tt1462059
-Fly Girls,tt1531273
-Masters Of Sex,tt2137109
-Eureka,tt0796264
-The Village,tt0368447
-Super Fun Night,tt2298477
-The Yard,tt5651762
-Stargate Universe,tt1286039
-UnREAL,tt3314218
-The Mill,tt2220768
-Cougar Town,tt1441109
-Aliens In America,tt0790603
-Outsourced,tt1593756
-The Good Guys,tt1567254
-Vera,tt1693592
-Chicago Fire,tt2261391
-The Messengers,tt3513704
-A Lista de Clientes,tt1625340
-Blindspot,tt4474344
-Unforgiven,tt0105695
-Murder In The First,tt2402061
-Peaky Blinders,tt2442560
-The Whispers,tt3487410
-Z Nation,tt3843168
-Smash,tt1825133
-Entourage,tt0387199
-Make It or Break It,tt1332030
-Battlestar Galactica,tt0407362
-The New Normal,tt2087571
-Spartacus: Blood and Sand,tt1442449
-Line Of Duty,tt2303687
-Man Up,tt3064298
-The Crazy Ones,tt2710104
-White Collar,tt1358522
-Miracles,tt0320075
-The Playboy Club,tt1797475
-Uncategorized,tt1579358
-Hannibal,tt2243973
-Big School,tt2827534
-Kyle-Xy,tt0756509
-Underground,tt4522400
-Helix,tt2758950
-90210,tt1225901
-Humans,tt4122068
-Teen Wolf,tt1567432
-Crossing Lines,tt2427220
-Betrayal,tt2751074
-Revenge,tt1837642
-The Goodwin Games,tt2244871
-Releases,tt6017172
-Beaver Falls,tt1919418
-X Men Evolution,tt0247827
-The Fall,tt2294189
-Army Wives,tt0859592
-Dominion,tt3079768
-The Neighbors,tt2182229
-Hostages,tt2647258
-Shadowhunters,tt4145054
-Alcatraz,tt0117500
-WordCamp,tt0482060
-UnderCovers,tt1568769
-Lip Service,tt1533010
-Low Winter Sun,tt2314792
-The Secret Circle,tt1837654
-Death Valley,tt2461030
-Sons of Anarchy,tt1124373
-Wilfred,tt1703925
-Rush Hour,tt0120812
-Glory Daze,tt0116422
-Best Friends Forever,tt3509114
-Survivor,tt0239195
-Fresh Off the Boat,tt3551096
-The Real White Queen And Her Rivals,tt5928682
-XIII The Series,tt1713938
-Wayward Pines,tt2618986
-Code Black,tt4452630
-Do No Harm,tt2184980
 Arrested Development,tt0367279
-Thorne: Scaredy Cat,tt1659253
-American Crime Story,tt2788432
-Drop Dead Diva,tt1280822
-Support Forums,tt2173992
-Desperate Housewives,tt0410975
-Dallas,tt0077000
-The Glee Project,tt1816993
-Brotherhood,tt5193784
-Retired At 35,tt1570987
-The Bridge,tt1733785
-The Last Man On Earth,tt3230454
-Younger,tt3288518
-Cristela,tt3729144
+Orange Is the New Black,tt2372162
+The Sopranos,tt0141842
+Better Call Saul,tt3032476
+The Wire,tt0306414
+Two and a Half Men,tt0369179
+Firefly,tt0303461
+Scrubs,tt0285403
+Seinfeld,tt0098904
+True Blood,tt0844441
+Heroes,tt0813715
+Grey's Anatomy,tt0413573
+13 Reasons Why,tt1837492
+Spartacus,tt1442449
+Hannibal,tt2243973
+Futurama,tt0149460
+Gotham,tt3749900
+Avatar: The Last Airbender,tt0417299
+Doctor Who,tt0436992
+Peaky Blinders,tt2442560
+The X-Files,tt0106179
+Agents of S.H.I.E.L.D.,tt2364582
+Mad Men,tt0804503
+Community,tt1439629
+Parks and Recreation,tt1266020
+The 100,tt2661044
+New Girl,tt1826940
+It's Always Sunny in Philadelphia,tt0472954
+Shameless,tt1586680
+24,tt0285331
+Boardwalk Empire,tt0979432
+The Blacklist,tt2741602
+Twin Peaks,tt0098936
+Entourage,tt0387199
+The Mentalist,tt1196946
+Pretty Little Liars,tt1578873
+The Punisher,tt5675620
+Downton Abbey,tt1606375
+Battlestar Galactica,tt0407362
+Rome,tt0384766
+That '70s Show,tt0165598
+Gossip Girl,tt0397442
+Brooklyn Nine-Nine,tt2467372
+Criminal Minds,tt0452046
+Castle,tt1219024
+Bones,tt0460627
+Glee,tt1327801
+Sense8,tt2431438
+Chuck,tt0934814
+La casa de papel,tt6468322
+Freaks and Geeks,tt0193676
+Buffy the Vampire Slayer,tt0118276
+The IT Crowd,tt0487831
+Teen Wolf,tt1567432
+White Collar,tt1358522
+Six Feet Under,tt0248654
+The Handmaid's Tale,tt5834204
 Smallville,tt0279600
+Malcolm in the Middle,tt0212671
+Revenge,tt1837642
+Desperate Housewives,tt0410975
+NCIS,tt0364845
+The Fresh Prince of Bel-Air,tt0098800
+American Dad!,tt0397306
+30 Rock,tt0496424
+Lie to Me,tt1235099
+Luther,tt1474684
+Luke Cage,tt3322314
+How to Get Away with Murder,tt3205802
+Ozark,tt5071412
+Grimm,tt1830617
+Dragon Ball Z,tt0214341
+Top Gear,tt1628033
+Iron Fist,tt3322310
+Altered Carbon,tt2261227
+Weeds,tt0439100
+Dark,tt5753856
+Sex and the City,tt0159206
+The Newsroom,tt1870479
+Cosmos,tt2395695
+Elementary,tt2191671
+My Name Is Earl,tt0460091
+Married with Children,tt0092400
+The Killing,tt1637727
+Mr. Bean,tt0096657
+Gilmore Girls,tt0238784
+Star Trek: The Next Generation,tt0092455
+The Office,tt0290978
+Fullmetal Alchemist: Brotherhood,tt1355642
+The Legend of Korra,tt1695360
+Curb Your Enthusiasm,tt0264235
+Leyla and Mecnun,tt1831164
+Falling Skies,tt1462059
+Deadwood,tt0348914
+Black Sails,tt2375692
+Oz,tt0118421
+The Following,tt2071645
+The Crown,tt4786824
+Legends of Tomorrow,tt4532368
+Revolution,tt2070791
+Stargate SG-1,tt0118480
+Psych,tt0491738
+Terra Nova,tt1641349
+Making a Murderer,tt5189670
+Fawlty Towers,tt0072500
+Banshee,tt2017109
+The O.C.,tt0362359
+Cowboy Bebop,tt0213338
+CSI: Crime Scene Investigation,tt0247082
+Batman: The Animated Series,tt0103359
+SpongeBob SquarePants,tt0206512
+The Americans,tt2149175
+The Inbetweeners,tt1220617
+The Strain,tt2654620
+Legion,tt5114356
+Da Vinci's Demons,tt2094262
+The King of Queens,tt0165581
+Skins,tt0840196
+Charmed,tt0158552
+Ray Donovan,tt2249007
+Law & Order: Special Victims Unit,tt0203259
+BoJack Horseman,tt3398228
+The Expanse,tt3230854
+One Tree Hill,tt0368530
+Frasier,tt0106004
+Star Trek,tt0060028
+Last Week Tonight with John Oliver,tt3530232
+Merlin,tt1199099
+The Shield,tt0286486
+Agent Carter,tt3475734
+The Man in the High Castle,tt1740299
+American Crime Story,tt2788432
+Burn Notice,tt0810788
+Naruto: Shippûden,tt0988824
+The Fall,tt2294189
+Star Trek: Discovery,tt5171438
+Scandal,tt1837576
+The Good Wife,tt1442462
+Hawaii Five-0,tt1600194
+Girls,tt1723816
+The OA,tt4635282
+Veronica Mars,tt0412253
+The Twilight Zone,tt0052520
+Angel,tt0162065
+Monk,tt0312172
+The Night Manager,tt1399664
+Monty Python's Flying Circus,tt0063929
+Everybody Loves Raymond,tt0115167
+Flashforward,tt1441135
+Dragon Ball Z,tt0121220
+Stargate: Atlantis,tt0374455
+The Good Place,tt4955642
+Preacher,tt5016504
+American Gods,tt1898069
+Designated Survivor,tt5296406
+Master of None,tt4635276
+Ash vs Evil Dead,tt4189022
+The West Wing,tt0200276
+Sleepy Hollow,tt2647544
+Bob's Burgers,tt1561755
+One Piece: Wan pîsu,tt0388629
+Terminator: The Sarah Connor Chronicles,tt0851851
+Naruto,tt0409591
+Continuum,tt1954347
+Unbreakable Kimmy Schmidt,tt3339966
+The Sinner,tt6048596
+Fullmetal Alchemist,tt0421357
+iZombie,tt3501584
+You,tt7335184
+Jericho,tt0805663
+Pushing Daisies,tt0925266
+Sacred Games,tt6077448
+The Last Kingdom,tt4179452
+Billions,tt4270492
+The Last Ship,tt2402207
+Nip/Tuck,tt0361217
+Flight of the Conchords,tt0863046
+Star Trek: Voyager,tt0112178
+Gravity Falls,tt1865718
+The Shannara Chronicles,tt1051220
+CSI: Miami,tt0313043
+Black Books,tt0262150
+Sex Education,tt7767422
+MythBusters,tt0383126
+Full House,tt0092359
+Wayward Pines,tt2618986
+Bron/Broen,tt1733785
+Extras,tt0445114
+Eastbound & Down,tt0866442
+Will & Grace,tt0157246
+M*A*S*H,tt0068098
+Chappelle's Show,tt0353049
+Nikita,tt1592154
+Spaced,tt0187664
+ER,tt0108757
+Dragon Ball,tt0280249
+Blue Mountain State,tt1344204
+A Series of Unfortunate Events,tt4834206
+Almost Human,tt2654580
+Peep Show,tt0387764
+The Borgias,tt1582457
+Tom Clancy's Jack Ryan,tt5057054
+Eureka,tt0796264
+The Orville,tt5691552
+SGU Stargate Universe,tt1286039
+Hell on Wheels,tt1699748
+NCIS: Los Angeles,tt1378167
+Star Trek: Deep Space Nine,tt0106145
+Shadowhunters: The Mortal Instruments,tt4145054
+3rd Rock from the Sun,tt0115082
+The Secret Circle,tt1837654
+Blackadder Goes Forth,tt0096548
+The Umbrella Academy,tt1312171
+Scorpion,tt3514324
+Workaholics,tt1610527
+The Good Doctor,tt6470478
+Cheers,tt0083399
+Alias,tt0285333
+The Daily Show,tt0115147
+King of the Hill,tt0118375
+CSI: NY,tt0395843
+The Middle,tt1442464
+Touch,tt1821681
+Awkward.,tt1663676
+Hart of Dixie,tt1832979
+Ghost Whisperer,tt0460644
+90210,tt1225901
+The 4400,tt0389564
+Dragon Ball,tt0088509
+Only Fools and Horses....,tt0081912
+Boston Legal,tt0402711
+Coupling,tt0237123
+Carnivàle,tt0319969
+Code Geass: Lelouch of the Rebellion,tt0994314
+Joey,tt0375355
+Star Trek: Enterprise,tt0244365
+Star Wars: The Clone Wars,tt0458290
+Samurai Jack,tt0278238
+Chilling Adventures of Sabrina,tt7569592
+Saturday Night Live,tt0072562
+The Knick,tt2937900
+Cougar Town,tt1441109
+Santa Clarita Diet,tt5580540
+Wilfred,tt1703925
+Bleach,tt0434665
+Black-Adder II,tt0088484
+Dexter's Laboratory,tt0115157
+Dead Like Me,tt0348913
+Xena: Warrior Princess,tt0112230
+Ugly Betty,tt0805669
+Alcatraz,tt1728102
+Atlanta,tt4288182
+Roseanne,tt0094540
+Robot Chicken,tt0437745
+Whose Line Is It Anyway?,tt0163507
+Numb3rs,tt0433309
+Black Adder the Third,tt0092324
+Torchwood,tt0485301
+The Colbert Report,tt0458254
+The Cleveland Show,tt1195935
+Home Improvement,tt0101120
+Neon Genesis Evangelion,tt0112159
+Justice League,tt0275137
+Boy Meets World,tt0105958
+Travelers,tt5651844
+Empire,tt3228904
+Utopia,tt2384811
+Atypical,tt6315640
+Manhunt: Unabomber,tt5618256
+The Magicians,tt4254242
+Hemlock Grove,tt2309295
+Samurai Champloo,tt0423731
+The Nanny,tt0106080
+The Mechanism,tt6873658
+Hannah Montana,tt0493093
+Raising Hope,tt1615919
+Beauty and the Beast,tt2193041
+Hunter x Hunter,tt2098220
+Pokémon,tt0168366
+X-Men,tt0103584
+Haven,tt1519931
+Doctor Who,tt0056751
+Father Ted,tt0111958
+Courage the Cowardly Dog,tt0220880
+Trailer Park Boys,tt0290988
+The Tomorrow People,tt2660734
+Poirot,tt0094525
+MacGyver,tt0088559
+Happy Endings,tt1587678
+Masters of Sex,tt2137109
+The Powerpuff Girls,tt0175058
+According to Jim,tt0285351
+The Black Adder,tt0084988
+Ballers,tt2891574
+Humans,tt4122068
+Legend of the Seeker,tt0844653
+Lethal Weapon,tt5164196
+The Wonder Years,tt0094582
+Everybody Hates Chris,tt0460637
+Don't Trust the B---- in Apartment 23,tt1819509
+Steins;Gate,tt1910272
+Killing Eve,tt7016936
+Drake & Josh,tt0363328
+Dawson's Creek,tt0118300
+Bosch,tt3502248
+Red Dwarf,tt0094535
+"Sabrina, the Teenage Witch",tt0115341
+The A-Team,tt0084967
+Cosmos,tt0081846
+Farscape,tt0187636
+Episodes,tt1582350
+Bored to Death,tt1255913
+Chicago Fire,tt2261391
+Rules of Engagement,tt0790772
+Timeless,tt5511582
+Russian Doll,tt7520794
+Suburgatory,tt1741256
+The Flintstones,tt0053502
+Johnny Bravo,tt0118360
+Top of the Lake,tt2103085
+Law & Order,tt0098844
+Anger Management,tt1986770
+The Cosby Show,tt0086687
+The Suite Life of Zack and Cody,tt0426371
+"Ed, Edd n Eddy",tt0184111
+Dark Angel,tt0204993
+Sword Art Online,tt2250192
+Saved by the Bell,tt0096694
+iCarly,tt0972534
+The Fairly OddParents,tt0235918
+Blue Bloods,tt1595859
+Rugrats,tt0101188
+Grace and Frankie,tt3609352
+ALF,tt0090390
+Parenthood,tt1416765
+Jane the Virgin,tt3566726
+Phineas and Ferb,tt0852863
+"Beverly Hills, 90210",tt0098749
+Ally McBeal,tt0118254
+An Idiot Abroad,tt1702042
+Teenage Mutant Ninja Turtles,tt0131613
+The Bugs Bunny Show,tt0053488
+Cobra Kai,tt7221388
+QI,tt0380136
+Hey Arnold!,tt0115200
+Impractical Jokers,tt2100976
+The Golden Girls,tt0088526
+Helix,tt2758950
+The Young Pope,tt3655448
+Dracula,tt2296682
+Young Justice,tt1641384
+The Mindy Project,tt2211129
+Lost Girl,tt1429449
+Life on Mars,tt0478942
+Dharma & Greg,tt0118303
+Damages,tt0914387
+Alphas,tt1183865
+Disenchantment,tt5363918
+Knight Rider,tt0083437
+The Ranch,tt4998212
+The Gifted,tt4396630
+DuckTales,tt0092345
+"Scooby Doo, Where Are You!",tt0063950
+The Goldbergs,tt2712740
+The Alienist,tt4604612
+Pinky and the Brain,tt0112123
+Babylon 5,tt0105946
+Shooter,tt4181172
+Undercover,tt1909015
+Last Man Standing,tt1828327
+Longmire,tt1836037
+Wizards of Waverly Place,tt0799922
+Regular Show,tt1710308
+Beavis and Butt-Head,tt0105950
+Roswell,tt0201391
+Hercules: The Legendary Journeys,tt0111999
+The Event,tt1582459
+Las Vegas,tt0364828
+Top Gear,tt0163503
+The Boondocks,tt0373732
+Spin City,tt0115369
+Goliath,tt4687880
+Halt and Catch Fire,tt2543312
+Harper's Island,tt1232320
+Medium,tt0412175
+Rescue Me,tt0381798
+My Wife and Kids,tt0273855
+Quantum Leap,tt0096684
+Columbo,tt1466074
+Mom,tt2660806
+Better Off Ted,tt1235547
+Lilyhammer,tt1958961
+Being Human,tt1595680
+Berserk,tt0318871
+Behzat Ç.: Bir Ankara Polisiyesi,tt1795096
+Teen Titans,tt0343314
+7th Heaven,tt0115083
+Moonlight,tt0955346
+Being Human,tt1349938
+Greek,tt0976014
+House of Lies,tt1797404
+Caprica,tt0799862
+Nurse Jackie,tt1190689
+8 Simple Rules,tt0312081
+Spider-Man,tt0112175
+Extant,tt3155320
+Broad City,tt2578560
+Castlevania,tt6517102
+Baywatch,tt0096542
+Reaper,tt0955322
+The Fosters,tt2262532
+Witches of East End,tt2288064
+Jersey Shore,tt1563069
+Cold Case,tt0368479
+Studio 60 on the Sunset Strip,tt0485842
+The L Word,tt0330251
+Camelot,tt1672189
+Family Matters,tt0096579
+'Allo 'Allo!,tt0086659
+The Exorcist,tt5368542
+Chicago P.D.,tt2805096
+The Killing,tt0826760
+Star Wars Rebels,tt2930604
+American Vandal,tt6877772
+Rectify,tt2183404
+The Venture Bros.,tt0417373
+Mystery Science Theater 3000,tt0094517
+Nashville,tt2281375
+The Protector,tt7668518
+Batman Beyond,tt0147746
+Daria,tt0118298
+Sneaky Pete,tt5011816
+Derek,tt2616280
+Tyrant,tt2568204
+Aqua Teen Hunger Force,tt0297494
+Mike & Molly,tt1608180
+Dragon Ball GT,tt0139774
+The Closer,tt0458253
+Law & Order: Criminal Intent,tt0275140
+Conan,tt1637574
+Hustle,tt0379632
+Private Practice,tt0972412
+Steven Universe,tt3061046
+I Love Lucy,tt0043208
+F Is for Family,tt4326894
+Salem,tt2963254
+The Muppet Show,tt0074028
+American Idol,tt0319931
+Last Resort,tt2172103
+Miami Vice,tt0086759
+You're the Worst,tt3228420
+United States of Tara,tt1001482
+Poldark,tt3636060
+Mozart in the Jungle,tt3502172
+Jackass,tt0264263
+Kim Possible,tt0278866
+Happy!,tt2452242
+Survivor,tt0239195
+Hung,tt1229413
+Star Wars: Clone Wars,tt0361243
+Transparent,tt3502262
+Recess,tt0126170
+Ringer,tt1819654
+Little Britain,tt0358856
+Midsomer Murders,tt0118401
+"Magnum, P.I.",tt0080240
+Zoo,tt3250026
+The Ren & Stimpy Show,tt0101178
+Go On,tt2300923
+The Musketeers,tt2733252
+Animaniacs,tt0105941
+Big Love,tt0421030
+Tales from the Crypt,tt0096708
+Lois & Clark: The New Adventures of Superman,tt0106057
+Fresh Off the Boat,tt3551096
+Final Space,tt6317068
+The Transformers,tt0086817
+The Mighty Boosh,tt0416394
+The Secret Life of the American Teenager,tt1179817
+The Unit,tt0460690
+Mighty Morphin Power Rangers,tt0106064
+Permanent Roommates,tt4156586
+Inhumans,tt4154858
+Mad About You,tt0103484
+Digimon: Digital Monsters,tt0210418
+Isler Güçler,tt2311418
+Dragon Ball Z Kai,tt1409055
+Pan Am,tt1826805
+Dear White People,tt5707802
+Inside Look: The People v. O.J. Simpson - American Crime Story,tt6205862
+The Rain,tt6656238
+The Mist,tt5639976
+Royal Pains,tt1319735
+CatDog,tt0154061
+The World at War,tt0071075
+Drawn Together,tt0386180
+College Romance,tt8809646
+Baby Daddy,tt2177489
+My So-Called Life,tt0108872
+Perception,tt1714204
+Invader ZIM,tt0235923
+Sanctuary,tt0965394
+The Grim Adventures of Billy & Mandy,tt0292800
+Dragon Ball Super,tt4644488
+Ripper Street,tt2183641
+The Adventures of Sherlock Holmes,tt0086661
+TURN: Washington's Spies,tt2543328
+Queer as Folk,tt0262985
+The Deuce,tt4998350
+The Lying Game,tt1798274
+From Dusk Till Dawn: The Series,tt3337194
+Victoria,tt5137338
+The Missing,tt3877200
+The Librarians,tt3663490
+Trigun,tt0251439
+Rocko's Modern Life,tt0106115
+Fortitude,tt3498622
+Call the Midwife,tt1983079
+Madam Secretary,tt3501074
+The Thick of It,tt0459159
+Drop Dead Diva,tt1280822
+Hell's Kitchen,tt0437005
+Outcast,tt4229954
+America's Next Top Model,tt0363307
+666 Park Avenue,tt2197797
+Victorious,tt1604099
+Melissa & Joey,tt1597420
+Without a Trace,tt0321021
+Vice Principals,tt3766376
+Human Target,tt1439741
+Absolutely Fabulous,tt0105929
+Batman,tt0059968
+Boss,tt1833285
+Cow and Chicken,tt0118289
+I'm Alan Partridge,tt0129690
+3%,tt4922804
+Jackie Chan Adventures,tt0259141
+Portlandia,tt1780441
+Inspector Gadget,tt0085033
+Line of Duty,tt2303687
+Moonlighting,tt0088571
+The Jetsons,tt0055683
+Animal Kingdom,tt5574490
+Foster's Home for Imaginary Friends,tt0419326
+The Kingdom,tt0108906
+Good Luck Charlie,tt1415889
+Doug,tt0101084
+Late Night with Conan O'Brien,tt0106052
+Runaways,tt1236246
+Star-Crossed,tt2657262
+Black Lightning,tt6045840
+Ghost in the Shell: Stand Alone Complex,tt0346314
+Just Shoot Me!,tt0118364
+That's So Raven,tt0300865
+Yu-Gi-Oh!,tt0249327
+Undeclared,tt0273028
+No Ordinary Family,tt1591493
+The River,tt1836195
+"Murder, She Wrote",tt0086765
+Lizzie McGuire,tt0273366
+Monster,tt0434706
+Flashpoint,tt1059475
+Smash,tt1825133
+Mirzapur,tt6473300
+Counterpart,tt4643084
+Schitt's Creek,tt3526078
+Barry,tt5348176
+The Adventures of Tintin,tt0179552
+The Amazing World of Gumball,tt1942683
+Koombiyo,tt7450814
+Rurouni Kenshin: Wandering Samurai,tt0182629
+Rookie Blue,tt1442065
+Graceland,tt2393813
+Reno 911!,tt0370194
+A Discovery of Witches,tt2177461
+JAG,tt0112022
+Superstore,tt4477976
+My Hero Academia,tt5626028
+Sliders,tt0112167
+Robin Hood,tt0787985
+Anne,tt5421602
+Chip 'n' Dale Rescue Rangers,tt0096557
+"Two Guys, a Girl and a Pizza Place",tt0137330
+Yeh Meri Family,tt8595766
+Marcella,tt5269594
+Dinosaurs,tt0101081
+Teen Titans Go!,tt2771780
+He-Man and the Masters of the Universe,tt0126158
+Resurrection,tt2647586
+Thundercats,tt0088631
+The Drew Carey Show,tt0111945
+The Bugs Bunny/Looney Tunes Comedy Hour,tt0088491
+Little House on the Prairie,tt0071007
+Bewitched,tt0057733
+Metalocalypse,tt0839188
+In Treatment,tt0835434
+Bitten,tt2365946
+Friends from College,tt5565334
+Garth Marenghi's Darkplace,tt0397150
+Breakout Kings,tt1590961
+Tru Calling,tt0364817
+Family Ties,tt0083413
+Ned's Declassified School Survival Guide,tt0405576
+Happy Days,tt0070992
+Codename: Kids Next Door,tt0312109
+MacGyver,tt1399045
+The Finder,tt1943524
+Wentworth,tt2433738
+Key and Peele,tt1981558
+The Adventures of Jimmy Neutron: Boy Genius,tt0320808
+The Pretender,tt0115320
+Tosh.0,tt1430587
+Genius,tt5673782
+Feud,tt1984119
+Northern Exposure,tt0098878
+Body of Proof,tt1587669
+"Walker, Texas Ranger",tt0106168
+Police Squad!,tt0083466
+My Mad Fat Diary,tt2407574
+Younger,tt3288518
+Ellen: The Ellen DeGeneres Show,tt0379623
+The Pink Panther Show,tt0063939
+Van Helsing,tt5197820
+Salvation,tt6170874
+The Smurfs,tt0081933
+Fresh Meat,tt2058303
+Grounded for Life,tt0255734
+The Black Donnellys,tt0805661
+Avrupa Yakasi,tt0421291
+Nathan for You,tt2297757
+MI-5,tt0160904
+Life's Too Short,tt1641247
+Life Unexpected,tt1442109
+Shameless,tt0377260
+The Suite Life on Deck,tt1181917
+Kardes Payi,tt3671754
+A Young Doctor's Notebook & Other Stories,tt2164430
+Galavant,tt3305096
+Inuyasha,tt0290223
+The Angry Video Game Nerd,tt1230180
+Kenan & Kel,tt0115231
+Mr Selfridge,tt2310212
+Faking It,tt3127020
+Girlboss,tt5706996
+Alfred Hitchcock Presents,tt0047708
+Darkwing Duck,tt0101076
+Hellsing,tt0325547
+Sarabhai vs Sarabhai,tt1518542
+The Amazing Race,tt0285335
+Young & Hungry,tt2084712
+Gavin & Stacey,tt0908454
+Franklin & Bash,tt1600199
+The Good Fight,tt5853176
+The Odyssey,tt0118414
+Danny Phantom,tt0366005
+Even Stevens,tt0206511
+All in the Family,tt0066626
+Da Ali G Show,tt0367274
+Treme,tt1279972
+Gargoyles,tt0108783
+Frontier,tt4686698
+Primeval,tt0808096
+Battlestar Galactica,tt0076984
+Legends,tt2402137
+Keeping Up Appearances,tt0098837
+The Staircase,tt0388644
+The Brink,tt3216586
+The Young Ones,tt0083505
+Reba,tt0284722
+Psycho-Pass,tt2379308
+Jimmy Kimmel Live!,tt0320037
+Highlander,tt0103442
+NewsRadio,tt0112095
+Zoey 101,tt0415463
+Growing Pains,tt0088527
+In the Flesh,tt2480514
+The Angry Beavers,tt0131664
+Superman,tt0115378
+Mistresses,tt2295809
+Late Show with David Letterman,tt0106053
+Tengen toppa gurren lagann,tt0948103
+What I Like About You,tt0321018
+The Avengers: Earth's Mightiest Heroes,tt1626038
+Are You Afraid of the Dark?,tt0103352
+Secret Diary of a Call Girl,tt1000734
+Late Night with Jimmy Fallon,tt1231460
+The Addams Family,tt0057729
+Wonderfalls,tt0361256
+TaleSpin,tt0098924
+9-1-1,tt7235466
+Girl Meets World,tt2543796
+The New Batman Adventures,tt0118266
+Cloak & Dagger,tt5614844
+Who Is America?,tt8679236
+Everwood,tt0318883
+Gypsy,tt5503718
+Please Like Me,tt2155025
+Outsourced,tt1593756
+Crossing Lines,tt2427220
+The Mick,tt5638056
+Clerks,tt0210413
+Real Time with Bill Maher,tt0350448
+Foyle's War,tt0310455
+Magic City,tt1832045
+Frequency,tt5531470
+Brickleberry,tt2022713
+Hot in Cleveland,tt1583607
+Bull,tt5827228
+Invasion,tt0460651
+Penn & Teller: Bullshit!,tt0346369
+Medici,tt5057130
+Future Diary,tt2069441
+Mr. Mercedes,tt4354880
+Dirty Sexy Money,tt0960136
+The Mask,tt0112064
+I Dream of Jeannie,tt0058815
+Selfie,tt3549044
+Death in Paradise,tt1888075
+The Wild Thornberrys,tt0167743
+The Tick,tt5540054
+The Prisoner,tt0061287
+Gilligan's Island,tt0057751
+Andromeda,tt0213327
+Step by Step,tt0101205
+Homecoming,tt7008682
+Second Chance,tt4378456
+The Returned,tt3230780
+Jeeves and Wooster,tt0098833
+Inside Amy Schumer,tt2578508
+The New Adventures of Old Christine,tt0462128
+Claymore,tt0985344
+Miss Fisher's Murder Mysteries,tt1988386
+Wallander,tt1178618
+Kurtlar Vadisi,tt0421384
+Once Upon a Time in Wonderland,tt2802008
+The Brady Bunch,tt0063878
+Becker,tt0174378
+Shark,tt0805666
+Stitchers,tt3868848
+Bottom,tt0103376
+H2O: Just Add Water,tt0491603
+"Midnight, Texas",tt5464086
+Ófærð,tt3561180
+Hello Ladies,tt2378794
+Sailor Moon,tt0114327
+Krypton,tt4276624
+Major Crimes,tt1936532
+The Hills,tt0489598
+Arthur,tt0169414
+Ergo Proxy,tt0791205
+Emerald City,tt3579018
+The New Normal,tt2087571
+The Kominsky Method,tt7255502
+Masters of Horror,tt0448190
+Babylon Berlin,tt4378376
+Jessie,tt1865769
+Sesame Street,tt0063951
+The Andy Griffith Show,tt0053479
+RuPaul's Drag Race,tt1353056
+Three's Company,tt0075596
+NYPD Blue,tt0106079
+The Incredible Hulk,tt0077031
+Early Edition,tt0115163
+Yes Minister,tt0080306
+Homicide: Life on the Street,tt0106028
+The Munsters,tt0057773
+Tiny Toon Adventures,tt0098929
+Goosebumps,tt0111987
+Versailles,tt3830558
+The Outer Limits,tt0112111
+Mars,tt4939064
+Shake It Up,tt1661326
+Mushi-Shi,tt0807832
+Dallas,tt0077000
+The Royals,tt3597912
+Taxi,tt0077089
+Degrassi: The Next Generation,tt0288937
+Green Wing,tt0423661
+The Client List,tt2022170
+Shaun the Sheep,tt0983983
+Darker Than Black: Gemini of the Meteor,tt0995941
+Melrose Place,tt0103491
+The Vicar of Dibley,tt0108981
+Doc Martin,tt0408381
+Secrets and Lies,tt3516878
+Yu Yu Hakusho: Ghost Files,tt0185133
+Trollhunters: Tales of Arcadia,tt1734135
+Glitch,tt4192782
+"Tim and Eric Awesome Show, Great Job!",tt0912343
+The Late Late Show with Craig Ferguson,tt0437729
+Copper,tt2006374
+Whitechapel,tt1186356
+21 Jump Street,tt0092312
+Chowder,tt1140100
+Aquarius,tt3768572
+Chicago Med,tt4655480
+SEAL Team,tt6473344
+Hellcats,tt1596356
+Conversations with a Killer: The Ted Bundy Tapes,tt9425132
+Rubicon,tt1389371
+Soul Eater,tt1214085
+Troy: Fall of a City,tt5103758
+So You Think You Can Dance,tt0472023
+Kitchen Nightmares,tt0983514
+Jane by Design,tt1743904
+"Harvey Birdman, Attorney at Law",tt0294097
+Dallas,tt1723760
+Get Smart,tt0058805
+The Tonight Show with Jay Leno,tt0103569
+The Night Shift,tt2477230
+Captain Planet and the Planeteers,tt0098763
+StartUp,tt5028002
+Project Runway,tt0437741
+The Paradise,tt2391224
+Felicity,tt0134247
+Black Lagoon,tt0962826
+Defying Gravity,tt1319690
+Who's the Boss?,tt0086827
+The Catch,tt4396862
+"Sister, Sister",tt0108927
+In Plain Sight,tt0935095
+Sonny with a Chance,tt1252374
+Garfield and Friends,tt0094469
+Surface,tt0452718
+The Hitchhiker's Guide to the Galaxy,tt0081874
+George Lopez,tt0310460
+Missing,tt1828246
+Crossing Jordan,tt0284718
+Wings,tt0098948
+Detective Conan,tt0131179
+Flaked,tt4973548
+Life on Mars,tt0787490
+Forbidden Love,tt1286677
+The Nine Lives of Chloe King,tt0499400
+Minority Report,tt4450826
+Hostages,tt2647258
+Lucky Louie,tt0460619
+Fauda,tt4565380
+Highschool of the Dead,tt1685401
+The Dukes of Hazzard,tt0078607
+Big Brother,tt0251497
+Ultimate Spider-Man,tt1722512
+The League of Gentlemen,tt0184135
+Six,tt5541338
+Baccano!,tt1334722
+X-Men: Evolution,tt0247827
+Night Court,tt0086770
+Millennium,tt0115270
+The Marvelous Misadventures of Flapjack,tt1178180
+Salem's Lot,tt0355987
+"Dr. Quinn, Medicine Woman",tt0103405
+Angel Beats!,tt1639109
+V,tt0086822
+Dancing with the Stars,tt0463398
+The Late Show with Stephen Colbert,tt3697842
+Red Band Society,tt3576794
+The Bletchley Circle,tt2275990
+Shades of Blue,tt4118584
+MADtv,tt0112056
+Aaahh!!! Real Monsters,tt0108684
+Make It or Break It,tt1332030
+Hercules,tt0138967
+The Hour,tt1778108
+Insecure,tt5024912
+The Spectacular Spider-Man,tt0976192
+Backstrom,tt2099034
+The Return of Sherlock Holmes,tt0090509
+Charlie's Angels,tt0073972
+Celebrity Deathmatch,tt0208614
+Journeyman,tt0948538
+In Living Color,tt0098830
+Home Movies,tt0197159
+Kidding,tt7375404
+Kenny vs. Spenny,tt0384746
+North and South,tt0088583
+Party of Five,tt0108894
+Man Seeking Woman,tt4189492
+Your Lie in April,tt3895150
+Being Erica,tt1149608
+The Batman,tt0398417
+The Adventures of Pete & Pete,tt0105933
+Blue Exorcist,tt1799631
+Brass Eye,tt0118273
+Inspector Morse,tt0092379
+Joan of Arcadia,tt0367345
+Knight Rider,tt1213404
+Airwolf,tt0086662
+Mr. Bean: The Animated Series,tt0280277
+Red vs. Blue,tt0401747
+Eastwick,tt1402376
+Nostalgia Critic,tt1635327
+The Graham Norton Show,tt0924651
+Ugly Americans,tt1621748
+The Dresden Files,tt0486657
+Mork & Mindy,tt0077053
+Good Behavior,tt4855114
+Heroes,tt0802147
+We Bare Bears,tt4839610
+The Eric Andre Show,tt2244495
+La Femme Nikita,tt0118379
+Third Watch,tt0197182
+The War at Home,tt0460692
+A Bit of Fry and Laurie,tt0101049
+The Messengers,tt3513704
+The Twilight Zone,tt0088634
+Diff'rent Strokes,tt0077003
+Adventures of the Gummi Bears,tt0088528
+The Tick,tt0112196
+Comedians in Cars Getting Coffee,tt2314952
+Hunted,tt2069449
+Smoke,tt9077626
+Mr. Show with Bob and David,tt0112084
+Storage Wars,tt1785123
+Taz-Mania,tt0103562
+Tin Star,tt4607112
+The Cape,tt1593823
+American Dragon: Jake Long,tt0429305
+The Yogi Bear Show,tt0255768
+KILL La KILL,tt3114390
+Bad Education,tt2337840
+Survivors,tt1258189
+The Dead Zone,tt0281432
+GCB,tt1727387
+Persons Unknown,tt1333050
+Chance,tt5620076
+Star vs. the Forces of Evil,tt2758770
+My Family,tt0257315
+Bleak House,tt0442632
+Taken,tt5052460
+Ravenswood,tt2799012
+The Kids in the Hall,tt0096626
+Undateable,tt2788780
+"Yes, Prime Minister",tt0086831
+Patriot,tt4687882
+Austin & Ally,tt1830491
+Ancient Aliens,tt1643266
+Crisis,tt2322158
+Timon & Pumbaa,tt0112197
+Another,tt2176165
+Popeye the Sailor,tt0145628
+Men at Work,tt1942919
+Dirty Jobs,tt0458259
+Cranford,tt0974077
+The Odd Couple,tt3595776
+The Bugs Bunny/Road Runner Hour,tt0062550
+The Oblongs,tt0219446
+About a Boy,tt2666270
+The Dick Van Dyke Show,tt0054533
+Murphy Brown,tt0094514
+Slasher,tt4667888
+The Riches,tt0496343
+Viva la Bam,tt0382501
+The Chicago Code,tt1620950
+The Six Million Dollar Man,tt0071054
+Breathe,tt6466208
+Fairly Legal,tt1586676
+My Life as a Teenage Robot,tt0318233
+Kevin Can Wait,tt5462720
+Little Dorrit,tt1178522
+Shark Tank,tt1442550
+Unforgotten,tt4192812
+Perfect Strangers,tt0090501
+Charmed,tt6394324
+Battle Creek,tt3215364
+The Gates,tt1599357
+Saint Seiya,tt0161952
+Grantchester,tt3747572
+The Real Ghostbusters,tt0090506
+The Love Boat,tt0075529
+Legit,tt2400391
+Totally Spies!,tt0283226
+Bunheads,tt2006848
+Day Break,tt0801425
+That Mitchell and Webb Look,tt0499410

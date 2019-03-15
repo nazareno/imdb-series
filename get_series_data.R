@@ -14,8 +14,7 @@ for(i in seq(1, NROW(series_to_fetch), by = 4)){
             do(tryCatch({flog.info(paste("Getting", .$series_name, .$imdb_id));
                 get_all_episodes(.$imdb_id)}, 
                 error = function(e) data.frame(NA)))
-        series_data %>% 
-            select(-2) %>% 
+        series_data %>%
             write_csv(output_file)
     }
 }
@@ -34,7 +33,7 @@ if(length(files) != there_should_be){
                         UserRating = col_double(),
                         UserVotes = col_number(),
                         series_ep = col_integer(),
-                        link = col_character(),
+                        url = col_character(),
                         r1 = col_double(),
                         r10 = col_double(),
                         r2 = col_double(),
@@ -49,15 +48,15 @@ if(length(files) != there_should_be){
                         season_ep = col_integer()
                     ))) %>% 
         ungroup()
+    
     all_data %>% 
         select(-1, -20) %>%
-        mutate(link = paste0("http://www.imdb.com", link)) %>% 
         select(series_name, 
                Episode,
                series_ep, 
                season, 
                season_ep,
-               url = link,
+               url,
                UserRating, 
                UserVotes,
                r1, 
