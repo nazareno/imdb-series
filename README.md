@@ -1,6 +1,6 @@
 # IMDB Ratings for TV/Streaming Series
 
-A dataset to analyse user ratings given in IMDB to episodes of some popular series. Code is in R. And the code to generate your version of it.
+A dataset of ratings given in IMDB to episodes of popular TV and Streaming series. And the R code to generate your version of it.
 
 Each line in the dtaset is an episode from a series from a handcrafted list of series. The variables are as follows:
 
@@ -23,8 +23,6 @@ Go for `data/series_from_imdb.csv` and start analysing series/episode data.
 
 ## Fetching the data / more data yourself
 
-*UPDATE 2018-04-21*: seemingly, a change in the imdb html layout has broken our scraping code. As of today, we could not find the page which had all the data we previously fetched -- only less detailed data. Until we fix that, we have data scraped in July 2017. 
-
 ### Dependencies
 
 You'll need `tidyverse` and `rvest`.
@@ -32,3 +30,4 @@ You'll need `tidyverse` and `rvest`.
 ### Runnnig
 
 Run `get_series_data.R`. It will fetch ratings for every episode of the series in `series_urls.csv` and save the result in `data/series_from_imdb.csv`.
+
