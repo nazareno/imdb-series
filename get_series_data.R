@@ -20,7 +20,7 @@ for(i in seq(1, NROW(series_to_fetch), by = 4)){
 }
 
 files = list.files("./data/", "^series_from_imdb-", full.names = TRUE)
-there_should_be = floor(NROW(series_to_fetch) / 4)
+there_should_be = ceiling(NROW(series_to_fetch) / 4)
 if(length(files) != there_should_be){
     message("Not all series were fetch. There should be ", there_should_be, " files, but there are ", length(files))
 } else {
@@ -52,13 +52,13 @@ if(length(files) != there_should_be){
     all_data %>% 
         select(-1, -20) %>%
         select(series_name, 
-               Episode,
+               episode = Episode,
                series_ep, 
                season, 
                season_ep,
                url,
-               UserRating, 
-               UserVotes,
+               user_rating = UserRating, 
+               user_votes = UserVotes,
                r1, 
                r2, 
                r3, 
@@ -71,7 +71,7 @@ if(length(files) != there_should_be){
                r10) %>% 
         filter(complete.cases(.)) %>% 
         distinct(series_name, 
-                 Episode,
+                 episode,
                  season, 
                  season_ep,
                  url, 

@@ -32,3 +32,5 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 .Rproj.user
+
+data/series_from_imdb-*
